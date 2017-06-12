@@ -1,0 +1,6 @@
+c:\users\hasnain\documents\visual studio 2015\Projects\WindowsPrintDetector\WindowsPrintDetector\bin\Debug\WindowsPrintDetector.exe.config
+c:\users\hasnain\documents\visual studio 2015\Projects\WindowsPrintDetector\WindowsPrintDetector\bin\Debug\WindowsPrintDetector.exe
+c:\users\hasnain\documents\visual studio 2015\Projects\WindowsPrintDetector\WindowsPrintDetector\bin\Debug\WindowsPrintDetector.pdb
+c:\users\hasnain\documents\visual studio 2015\Projects\WindowsPrintDetector\WindowsPrintDetector\obj\Debug\WindowsPrintDetector.csprojResolveAssemblyReference.cache
+c:\users\hasnain\documents\visual studio 2015\Projects\WindowsPrintDetector\WindowsPrintDetector\obj\Debug\WindowsPrintDetector.exe
+c:\users\hasnain\documents\visual studio 2015\Projects\WindowsPrintDetector\WindowsPrintDetector\obj\Debug\WindowsPrintDetector.pdb
